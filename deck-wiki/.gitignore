@@ -1,0 +1,8 @@
+# Obsidian workspace/cache (keep config out of the repo if you prefer)
+.obsidian/workspace*
+.obsidian/cache
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
