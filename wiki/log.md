@@ -9,3 +9,8 @@ activity. Prefixes: `ingest | `, `query | `, `lint | `, `decision | `, `note | `
 - Created schema [[CLAUDE]], [[overview]], [[index]], and category folders
   (entities, concepts, decisions, sources).
 - Ready to ingest the first source.
+
+## [2026-06-02] note | Restructured to standalone repo "deck-rebuild-wiki"
+- Removed the unrelated Tutorial-Codebase-Knowledge project files.
+- Promoted the wiki to the repo root (CLAUDE.md, raw/, wiki/ now at top level).
+- Project name: deck-rebuild-wiki.
